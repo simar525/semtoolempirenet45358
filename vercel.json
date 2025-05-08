@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://semrush.groupbuyseotools.store/$1"
+ }
+  ]
+}
